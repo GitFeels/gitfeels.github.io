@@ -1,5 +1,5 @@
 body {
-      font-family: Arial, sans-serif;
+      font-family: "Gill Sans", Calibri, Verdana, sans-serif;
       background-color: #1c2333;
 }
 h1 {
@@ -7,9 +7,9 @@ h1 {
       font-size: 24px;
 }
 .slack-display-image {
-      width: 150px;
+      width: 20px;
       height: auto;
-      border-radius: 50%;
+      border-radius: 10%;
       margin-bottom: 20px;
 }
 p {
@@ -19,6 +19,7 @@ p {
 }
 a {
       color: #e8d784 !important;
+      text-decoration: none;
 }
 [data-testid="currentUTCTime"] {
   font-style: italic;
