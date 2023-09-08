@@ -3,8 +3,8 @@ body {
       background-color: #1c2333;
 }
 h1 {
-      color: #9fcfff;
-      font-size: 24px;
+      color: pink;
+      font-size: 35px;
 }
 .slack-display-image {
       width: 20px;
@@ -14,7 +14,7 @@ h1 {
 }
 p {
       color: #b5d9fd;
-      font-size: 16px;
+      font-size: 25px;
       margin-bottom: 8px;
 }
 a {
